@@ -1,0 +1,38 @@
+.main {
+  height: 520px;
+  width: 520px;
+  background-color: grey;
+  /* display: flex; */
+  padding: 20px;
+}
+
+.row1 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 150px;
+  width: 500px;
+  background-color: darkred;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.row2 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 150px;
+  width: 500px;
+  background-color: forestgreen;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.row3 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 150px;
+  width: 500px;
+  background-color: darkblue;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-evenly;
+}
